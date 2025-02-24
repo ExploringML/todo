@@ -1,0 +1,10 @@
+python-fasthtml
+uvicorn[standard]>=0.30
+python-multipart
+sqlite-utils
+jupyterlab
+sqlite-web
+graphviz
+oauthlib
+fastcore>=1.7.18
+pytailwindcss
